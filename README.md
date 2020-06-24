@@ -9,6 +9,6 @@ Berikut adalah tutorial bagaimana menggunakan Google Colab sebagai sarana untuk 
 
 1. Pertama adalah mengenai cara upload dataset dan instalasi library
 
-2. Bagaimana melakukan analisis data dan membuat laporan interaktif 
+2. Bagaimana membuat laporan interaktif dengan widget dan form
 
 3. Bagaimana cara menambahkan GPU pada VM dan menjalankan Deep Learning

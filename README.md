@@ -7,8 +7,9 @@ Berikut adalah tutorial bagaimana menggunakan Google Colab sebagai sarana untuk 
 
 ## Snippet Berguna untuk memulai belajar menggunakan Google Colab
 
-1. Pertama adalah mengenai cara upload dataset dan instalasi library
+1. Bagaimana cara menambahkan GPU pada VM dan menjalankan Deep Learning
 
-2. Bagaimana membuat laporan interaktif dengan widget dan form
+2. Mengenal cara upload dataset dan instalasi library
 
-3. Bagaimana cara menambahkan GPU pada VM dan menjalankan Deep Learning
+3. Bagaimana membuat laporan interaktif dengan widget dan form
+
